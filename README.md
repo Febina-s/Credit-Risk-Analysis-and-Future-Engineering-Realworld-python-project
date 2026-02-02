@@ -216,7 +216,7 @@ The final dataset is suitable for:
 ---
 
 ## 👤 Author
-**[FEBINA]**  
+**FEBINA**  
 Aspiring Data Analyst | Finance & Credit Risk Analytics | Business Analyst
 
 ---
