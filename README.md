@@ -1,5 +1,5 @@
 # Credit-Risk-Analysis-and-Future-Engineering-Realworld-python-project
-![Credit Risk Analysis](./cra%20image.jfif)
+![Credit Risk Analysis](./craimage.jfif)
 
 
 ## 📌 Project Summary
