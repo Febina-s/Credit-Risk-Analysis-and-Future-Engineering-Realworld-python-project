@@ -1,6 +1,6 @@
 # Credit-Risk-Analysis-and-Future-Engineering-Realworld-python-project
 ![cra image](https://github.com/Febina-s/Credit-Risk-Analysis-and-Future-Engineering-Realworld-python-project
-/blob/main/cra image.png)
+/blob/main/cra image.jfif)
 ## 📌 Project Summary
 In banking and financial institutions, raw loan data cannot be used directly 
 for risk modeling or lending decisions.This project demonstrates a **real-world loan data preprocessing pipeline** built using **Python and NumPy**, similar to workflows used in **banks, NBFCs, and financial institutions** before building credit risk or default prediction models.
