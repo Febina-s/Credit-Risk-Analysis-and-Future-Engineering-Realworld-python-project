@@ -1,5 +1,6 @@
 # Credit-Risk-Analysis-and-Future-Engineering-Realworld-python-project
-![Credit Risk Analysis](./cra%20image.jifi)
+![Credit Risk Analysis](./cra%20image.jfif)
+
 
 ## 📌 Project Summary
 In banking and financial institutions, raw loan data cannot be used directly 
